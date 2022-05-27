@@ -1,8 +1,8 @@
 {
-  "name": "cloud-app-react",
+  "name": "templates",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://henryxddofficial.github.io",
+  "homepage": "https://henryxddofficial.github.io/templates",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.14.1",
